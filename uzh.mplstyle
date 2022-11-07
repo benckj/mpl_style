@@ -14,11 +14,7 @@ font.sans-serif : TheSans
 axes.linewidth : 1.2
 axes.labelsize : 16
 
-axes.prop_cycle : cycler('color', ['0028a5', 'dc6027', '91c34a', 'fede00', 'a3adb7', '0b82a0', '2a7f62', 
-                                   '667ec9', 'eaa07d', 'bfdf94', 'fcec7c', 'c8ced4', '6bb7c7', '80b6a4', 
-                                   '3353b7', 'e38052', 'aad470', 'fbe651', 'b5bdc5', '3c9fb6', '569d85', 
-                                   '99a9db', 'f1bfa9', 'd5e9b7', 'fdf3a8', 'dadee2', '9ed0d9', 'abcec2', 
-                                   'ccd4ed', 'f8dfd4', 'eaf4db', 'fef9d3', 'edeff1', 'cfe8ec', 'd5e7e1'])
+axes.prop_cycle : cycler('color', ['0028a5', 'dc6027', '91c34a', 'fede00', 'a3adb7', '0b82a0', '2a7f62', '667ec9', 'eaa07d', 'bfdf94', 'fcec7c', 'c8ced4', '6bb7c7', '80b6a4', '3353b7', 'e38052', 'aad470', 'fbe651', 'b5bdc5', '3c9fb6', '569d85', '99a9db', 'f1bfa9', 'd5e9b7', 'fdf3a8', 'dadee2', '9ed0d9', 'abcec2', 'ccd4ed', 'f8dfd4', 'eaf4db', 'fef9d3', 'edeff1', 'cfe8ec', 'd5e7e1'])
 
 ### Saving figures
 savefig.facecolor : 333333

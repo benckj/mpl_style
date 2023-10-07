@@ -1,4 +1,4 @@
-# The style of UZH in matplotlib.
+# The style of UZH in matplotlib
 
 There are two ways of using it:
 1. Online via github - use the following command in your script:

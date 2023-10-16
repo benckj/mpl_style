@@ -8,7 +8,8 @@
 text.usetex		  : False
 font.size 		  : 12
 font.family 	  : sans-serif
-font.sans-serif : TheSans-LP5
+font.sans-serif : TheSans
+font.weight     : 500
   
 ### Axes
 axes.linewidth : 1.2

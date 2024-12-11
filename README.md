@@ -76,5 +76,8 @@ uzh_colors= {
 Execute the the font_installation.py (but first you have to put the fonts in the respective forlders).
 Answer from: https://stackoverflow.com/questions/40290004/how-can-i-configure-matplotlib-to-be-able-to-read-fonts-from-a-local-path
 
+-------------------------------------------------------------------------------
+# Running the Script on Server:
+Check the serv-example.py to see an example on how to run the script on the server.
 
 
